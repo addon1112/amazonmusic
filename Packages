@@ -1,3 +1,18 @@
+Package: kernbypass
+Name: KernBypass
+Architecture: iphoneos-arm
+Version: 0.0.5
+Description: kernel level jailbreak detection bypass.
+Maintainer: kernbypass
+Author: akusio
+Section: System
+Filename: ./debs/jp.akusio.kernbypass-unofficial_0.0.5_iphoneos-arm.deb
+Size: 144922
+MD5sum: 88664e2a63933c4ba6c58a13936d4299
+SHA1: d2eed190bf07e978ec7e78c4f3ae5c39729a91f2
+SHA256: 8ee495c8fff663df9ddeb562b595bd8438fcc86a3a5e83fcbe0bfbf9a6a14f6b
+Depends: mobilesubstrate, preferenceloader
+
 Package: libactivator
 Name: Activator
 Architecture: iphoneos-arm
@@ -86,7 +101,7 @@ Size: 4376
 MD5sum: b5e800270a8083ee98d69e4e0e9904c0
 SHA1: 53f7499a4561d43f1d0e545f2d96de163c1f7392
 SHA256: 73fbba8cedaf3a9f413f686c3d403bf13098a7152fea5a584a409f77148d3b44
-Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),libactivator,com.rbt.useragentchanger,com.rpetrich.rocketbootstrap, com.a3tweaks.flipswitch, preferenceloader, applist,openssh,applist,sudo,jetslammed,curl,network-cmds,lsof
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),libactivator,com.rbt.useragentchanger,com.rpetrich.rocketbootstrap, com.a3tweaks.flipswitch, preferenceloader, applist,openssh,applist,sudo,jetslammed,curl,network-cmds,lsof,kernbypass
 
 Package: 12ipa
 Name: 12ipa
@@ -104,32 +119,32 @@ SHA256: afa1b6f77cf4c84f52550b14120de10cc72fabce6a2146866e1ec905aa88b393
 Pre-depends: mobilesubstrate,com.rpetrich.rocketbootstrap,openssh,applist,sudo,jetslammed,curl,network-cmds,firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),firmware (>= 4.0), gsc.armv7
 
 Package: com.lyxaben.amazonmusic.AtlTeamhookios13
-Name: AtlTeamhook
+Name: AtlTeamhookAmazonMusic
 Architecture: iphoneos-arm
-Version: 1.0-3
+Version: 1.0-4
 Description: Hook for amazonmusic by lyxaben
 Maintainer: AtlTeamhook 
 Author: AtlTeamhook 
 Section: Tweaks
-Filename: ./debs/com.lyxaben.amazonmusic.AtlTeamhookios13_1.0-3_iphoneos-arm.deb
-Size: 20924
-MD5sum: 98968fc1ad23c12d94833a7d8b14d5be
-SHA1: 64577802707f0486d147843bbffc29e195448292
-SHA256: bbead6732e239ccbb2df1052e620a60018a7c882b3d31d7be2508e28509c9156
+Filename: ./debs/com.lyxaben.amazonmusic.AtlTeamhookios13_1.0-4_iphoneos-arm.deb
+Size: 21308
+MD5sum: e1d1790579a20bef9b33ac2a82438729
+SHA1: fbdb5cbafaf34d19c673118215235a38a68032fe
+SHA256: 96e14dea5d4c3c48e5b253d9148379fddf892bb78bbd68e61ca1cb9d7e39e844
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
 
 Package: com.lyxaben.amazonmusic.AutoLeadHelperios13
-Name: AutoLeadHelperios13
+Name: AutoLeadHelperiosAmazonMusic
 Architecture: iphoneos-arm
-Version: 1.0-1
+Version: 1.0-3
 Description: AutoLeadHelperios13 for amazonmusic by lyxaben
 Maintainer: AutoLeadHelperios13 
 Author: AutoLeadHelperios13 
 Section: Tweaks
-Filename: ./debs/com.lyxaben.amazonmusic.AutoLeadHelperios13_1.0-1_iphoneos-arm.deb
-Size: 349792
-MD5sum: cc7cd703200fbf52e21d3a2d3201448a
-SHA1: 84d8c526f5052c8df04e8212bc566a4233304238
-SHA256: b2e6e2b9d387c6bc7489514dc2faa581601cc440d6019b2137d3eb804ecd170e
+Filename: ./debs/com.lyxaben.amazonmusic.AutoLeadHelperios13_1.0-3_iphoneos-arm.deb
+Size: 349952
+MD5sum: e7e30f5b9b8ac6f91495adec38f7123e
+SHA1: c453c45122ceb0097bf39200a60ffcd1c0b6004c
+SHA256: 7b0406863d0720a1c6cfa6cc6dc446f0b902a6d9ab8a11e8797f71c35e6c7812
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
