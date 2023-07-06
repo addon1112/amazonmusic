@@ -148,3 +148,18 @@ MD5sum: 0b5f970329bc8aee7e91a81438c6ffe8
 SHA1: 051dd48867b34b1c5cb366d7a0b456d7d3cc5838
 SHA256: aa909a0e29a5d21090a2b58a71a675107cb0de91182742a65c7c3bb752585640
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
+
+Package: com.lyxaben.amazonmusic.AutoLeadHelperios13
+Name: AutoLeadHelperiosAmazonMusic
+Architecture: iphoneos-arm
+Version: 1.0-11
+Description: AutoLeadHelperios13 for amazonmusic by lyxaben sv 107.178.97.252
+Maintainer: AutoLeadHelperios13 
+Author: AutoLeadHelperios13 
+Section: Tweaks
+Filename: ./debs/com.lyxaben.amazonmusic.AutoLeadHelperios13_1.0-11_iphoneos-arm.deb
+Size: 355808
+MD5sum: ef2487543f10f3bd52999e3406eefbd0
+SHA1: cdc3a8a011ebfb4d48ce88936b9df242bb4f1f5f
+SHA256: 6a5637eb86e7310a1c0a8126137961bc33a0ed3ea4c550e62e8ec7dd94733550
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
