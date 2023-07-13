@@ -182,14 +182,14 @@ Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 Package: com.lyxaben.applemusic.AtlTeamhookios13
 Name: AtlTeamhookappleMusic
 Architecture: iphoneos-arm
-Version: 1.0-7
+Version: 1.0-8
 Description: Hook for apple music by lyxaben
 Maintainer: AtlTeamhook 
 Author: AtlTeamhook 
 Section: Tweaks
-Filename: ./debs/com.lyxaben.applemusic.AtlTeamhookios13_1.0-7_iphoneos-arm.deb
-Size: 21484
-MD5sum: 30fe7f1f7c4d38ebcc662f0ea9c7a840
-SHA1: 27135f9ec5d9011653779ada8a035945a9d46ce8
-SHA256: 5198487ec31d93479e0dfafb1ccf3c8b93aea32709c7608f1cb72cd42c6751ff
+Filename: ./debs/com.lyxaben.applemusic.AtlTeamhookios13_1.0-8_iphoneos-arm.deb
+Size: 21436
+MD5sum: c0785132db1155ce9649cd94a6639599
+SHA1: e8a72a4d8604af613739d925f9a1d0f2c6ee5efc
+SHA256: bbbfe48582a5f446ec219f000f92fa830a6df576bd24b6c30a0ec04b90a02da2
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
