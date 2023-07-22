@@ -181,16 +181,16 @@ Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 Package: com.lyxaben.applemusic.AutoLeadHelperios13
 Name: AutoLeadHelperappleMusic
 Architecture: iphoneos-arm
-Version: 1.0-2
+Version: 1.0-3
 Description: AutoLeadHelperios13 for apple music by lyxaben sv 107.178.97.252
 Maintainer: AutoLeadHelperios13 
 Author: AutoLeadHelperios13 
 Section: Tweaks
-Filename: ./debs/com.lyxaben.applemusic.AutoLeadHelperios13_1.0-2_iphoneos-arm.deb
-Size: 355596
-MD5sum: 3317e6c7a8e7ad7105d41de416d4b9ef
-SHA1: 5963c2eccb8d2e3198ccfd70020096bb461a0cd6
-SHA256: 06b1b81e5b241ed5f6a32ea058e6ed54a7056272a998cdd16aa527e195ee9e88
+Filename: ./debs/com.lyxaben.applemusic.AutoLeadHelperios13_1.0-3_iphoneos-arm.deb
+Size: 355504
+MD5sum: 341797f60b1bcf8041308132e3150dd2
+SHA1: a85ab299668abf277ff2a5b66becb78a7406d170
+SHA256: c4eb65fb74c5e609b11e9a38cff9b3fe09d1135d82794ecc68a3b3a7a3f9b0c8
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap,kernbypass
 
 Package: com.lyxaben.applemusic.AtlTeamhookios13
