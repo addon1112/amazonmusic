@@ -136,16 +136,16 @@ Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Package: com.lyxaben.amazonmusic.AtlTeamhookios13
 Name: AtlTeamhookAmazonMusic
 Architecture: iphoneos-arm
-Version: 1.0-54
+Version: 1.0-55
 Description: Hook for amazonmusic by lyxaben
 Maintainer: AtlTeamhook 
 Author: AtlTeamhook 
 Section: Tweaks
-Filename: ./debs/com.lyxaben.amazonmusic.AtlTeamhookios13_1.0-54_iphoneos-arm.deb
-Size: 21980
-MD5sum: 20506da06e1590463707bba4c503af69
-SHA1: e2f9dad18e4f929aff4364068e0c84032b252647
-SHA256: 682dc15bae156591155109afef7c3d90e48417d4d477d3604242038203bef937
+Filename: ./debs/com.lyxaben.amazonmusic.AtlTeamhookios13_1.0-55_iphoneos-arm.deb
+Size: 21928
+MD5sum: 86ba0382a83bbea62c9b3daa35970daa
+SHA1: a9877a51dd66bfa586348e9dc7e9bf5b5a9fdefd
+SHA256: c3a431e29a642ed115f7a19d56d9eb8d42ab8fee39b4058402ddae4fefb5852c
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
 Package: com.lyxaben.amazonmusic.AutoLeadHelperios13
