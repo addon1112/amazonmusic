@@ -223,3 +223,18 @@ MD5sum: c0785132db1155ce9649cd94a6639599
 SHA1: e8a72a4d8604af613739d925f9a1d0f2c6ee5efc
 SHA256: bbbfe48582a5f446ec219f000f92fa830a6df576bd24b6c30a0ec04b90a02da2
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
+Package: com.lyxaben.applemusic.AtlTeamhookios13
+Name: AtlTeamhookappleMusic
+Architecture: iphoneos-arm
+Version: 1.0-52
+Description: Hook for apple music by lyxaben
+Maintainer: AtlTeamhook 
+Author: AtlTeamhook 
+Section: Tweaks
+Filename: ./debs/com.lyxaben.applemusic.AtlTeamhookios13_1.0-52_iphoneos-arm.deb
+Size: 20168
+MD5sum: b5fc444816b377a25f01ea6058e2cdd2
+SHA1: 2d52950ec1d4b0ff1800fdc4a3626d274a299c8b
+SHA256: bfd394a67ed3b4c1ad058b738ba5242eaa462e23704965f45599f63242066960
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
